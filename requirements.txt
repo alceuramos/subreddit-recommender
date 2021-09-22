@@ -1,0 +1,4 @@
+
+pathlib==1.0.1
+Scrapy==2.5.0
+wordcloud==1.8.1
